@@ -4,7 +4,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
+
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
@@ -23,7 +23,7 @@ It includes features for both students and instructors, providing a comprehensiv
 - Progress Tracking
 - Interactive User Dashboard
 - Responsive Design
-- Real-time Notifications
+  
 
 ## Technologies Used
 
@@ -32,8 +32,7 @@ It includes features for both students and instructors, providing a comprehensiv
 - React.js
 - Redux
 - React Router
-- Axios
-- Bootstrap / Material-UI
+- Bootstrap
 
 ### Backend
 
@@ -42,14 +41,8 @@ It includes features for both students and instructors, providing a comprehensiv
 - MongoDB
 - Mongoose
 - JWT (JSON Web Tokens) for Authentication
-- bcrypt for Password Hashing
 
-### Other Tools
 
-- Git
-- GitHub
-- Visual Studio Code
-- Postman for API Testing
 
 ## Installation
 
