@@ -30,7 +30,7 @@ function Features() {
             <div className="col-lg-7 col-12 text-light pt-2">
               <h3 className="light-300">Make transformations successful</h3>
               <p className="light-300">Get ready to transform yourself from zero to hero with our courses
-              <br/><a rel="noreferrer" target="_blank" href='https://www.freepik.com/vectors/mockup'>Mockup vector created by macrovector - www.freepik.com</a></p>
+</p>
             </div>
             <div className="col-lg-3 col-12 pt-4">
               <NavLink to="/courses" exact>

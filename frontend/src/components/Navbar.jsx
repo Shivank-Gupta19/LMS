@@ -21,11 +21,9 @@ function Navbar() {
           <NavLink className="navbar-brand fs-3 fw-bold" to="/" exact>
             <i className='bi-building text-success'></i>
             <span className="text-dark">L</span>
-            <span className="text-primary">E</span>
-            <span className="text-dark">M</span>
-            <span className="text-primary">N</span>
-            <span className="text-primary">O</span>
+            <span className="text-primary">M</span>
             <span className="text-dark">S</span>
+         
           </NavLink>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
