@@ -4,11 +4,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Introduction
 
@@ -41,12 +37,4 @@ It includes features for both students and instructors, providing a comprehensiv
 - MongoDB
 - Mongoose
 - JWT (JSON Web Tokens) for Authentication
-
-
-
-## Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/lms-mern-redux.git
-   cd lms-mern-redux
+  
