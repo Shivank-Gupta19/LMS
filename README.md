@@ -16,7 +16,6 @@ It includes features for both students and instructors, providing a comprehensiv
 - User Authentication and Authorization
 - Course Management (Create, Update, Delete)
 - Enrollment Management
-- Progress Tracking
 - Interactive User Dashboard
 - Responsive Design
   
